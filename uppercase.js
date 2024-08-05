@@ -20,5 +20,3 @@ const input = process.argv.slice(2)[0];
 const uppercase = input.toUpperCase();
 clipboard.writeSync(uppercase);
 console.log(`Copied name to clipboard: ${uppercase}`);
-
-// console.log(unix);
