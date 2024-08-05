@@ -1,0 +1,20 @@
+{
+  "name": "raycast",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ens.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.3",
+    "clipboardy": "^4.0.0",
+    "dns-packet": "^5.6.1",
+    "dotenv": "^16.4.5",
+    "viem": "^2.18.6",
+    "word-list": "^4.0.0"
+  }
+}
