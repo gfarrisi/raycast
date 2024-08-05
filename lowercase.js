@@ -20,5 +20,3 @@ const input = process.argv.slice(2)[0];
 const lowercase = input.toLowerCase();
 clipboard.writeSync(lowercase);
 console.log(`Copied name to clipboard: ${lowercase}`);
-
-// console.log(unix);

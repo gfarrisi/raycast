@@ -15,10 +15,7 @@
 import axios from "axios";
 import clipboard from "clipboardy";
 
-let ethPrice;
-
 const BASE_URL = "https://api.coingecko.com/api/v3";
-// const BASE_URL = "https://pro-api.coingecko.com/api/v3";
 
 const url = `${BASE_URL}/simple/price?ids=ethereum&vs_currencies=usd`;
 axios
@@ -33,6 +30,3 @@ axios
   .catch((err) => {
     console.log("Invalid address");
   });
-
-// clipboard.writeSync(unix.toString());
-// console.log(`Copied name to clipboard: ${unix.toString()}`);

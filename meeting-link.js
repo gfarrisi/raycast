@@ -29,5 +29,3 @@ exec(`open -a "Google Chrome" "${meetingLink}"`, (error) => {
   }
   console.log(`Copied name to clipboard: ${meetingLink}`);
 });
-
-// console.log(unix);
