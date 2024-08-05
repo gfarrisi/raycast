@@ -1,4 +1,4 @@
-# Custom Raycast Scripts
+# ☀︎ Custom Raycast Scripts
 
 Custom commands for [Raycast](https://www.raycast.com/)
 
