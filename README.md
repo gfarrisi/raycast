@@ -1,8 +1,9 @@
-Raycast Script Commands
+# Custom Raycast Scripts
 
 Custom commands for [Raycast](https://www.raycast.com/)
 
-Included scripts: 
+## Included scripts:
+
 - ENS Resolver
 - ETH Price
 - Google Maps Query
